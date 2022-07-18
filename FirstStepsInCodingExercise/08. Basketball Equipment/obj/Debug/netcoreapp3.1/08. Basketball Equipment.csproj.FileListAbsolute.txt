@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.exe
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.deps.json
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.genruntimeconfig.cache

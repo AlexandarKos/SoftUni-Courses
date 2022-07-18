@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.exe
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.deps.json
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.genruntimeconfig.cache

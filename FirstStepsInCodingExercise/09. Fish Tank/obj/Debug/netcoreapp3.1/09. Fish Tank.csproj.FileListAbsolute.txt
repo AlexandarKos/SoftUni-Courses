@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.exe
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.deps.json
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.genruntimeconfig.cache

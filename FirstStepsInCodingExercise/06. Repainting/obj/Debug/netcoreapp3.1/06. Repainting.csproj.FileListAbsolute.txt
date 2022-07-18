@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.exe
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.deps.json
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.genruntimeconfig.cache

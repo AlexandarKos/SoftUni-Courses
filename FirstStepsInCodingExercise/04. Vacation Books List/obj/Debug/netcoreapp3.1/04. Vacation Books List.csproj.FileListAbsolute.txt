@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.exe
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.deps.json
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.dll
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.pdb
+C:\Softuni\repos\FirstStepsInCodingExercise\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.genruntimeconfig.cache
