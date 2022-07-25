@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.exe
+C:\Softuni\repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.deps.json
+C:\Softuni\repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.json
+C:\Softuni\repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.dll
+C:\Softuni\repos\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.pdb
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.dll
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.pdb
+C:\Softuni\repos\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.genruntimeconfig.cache

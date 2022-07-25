@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.exe
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.deps.json
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.genruntimeconfig.cache

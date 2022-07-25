@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.exe
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.dll
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.dll
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.exe
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.deps.json
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.dll
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.dll
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.exe
+C:\Softuni\repos\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.deps.json
+C:\Softuni\repos\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.runtimeconfig.json
+C:\Softuni\repos\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.dll
+C:\Softuni\repos\While Loop - Exercise\05. Coins\bin\Debug\netcoreapp3.1\05. Coins.pdb
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.dll
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.pdb
+C:\Softuni\repos\While Loop - Exercise\05. Coins\obj\Debug\netcoreapp3.1\05. Coins.genruntimeconfig.cache

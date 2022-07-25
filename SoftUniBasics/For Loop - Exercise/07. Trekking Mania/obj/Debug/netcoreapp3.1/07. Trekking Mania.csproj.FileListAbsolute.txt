@@ -1,0 +1,14 @@
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.exe
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.deps.json
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.json
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.dev.json
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.dll
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.AssemblyReference.cache
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfoInputs.cache
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfo.cs
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.dll
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+C:\Softuni\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.genruntimeconfig.cache

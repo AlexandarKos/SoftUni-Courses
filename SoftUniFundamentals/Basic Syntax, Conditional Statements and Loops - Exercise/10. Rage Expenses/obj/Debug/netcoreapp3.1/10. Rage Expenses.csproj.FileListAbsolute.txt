@@ -1,0 +1,14 @@
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.AssemblyReference.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

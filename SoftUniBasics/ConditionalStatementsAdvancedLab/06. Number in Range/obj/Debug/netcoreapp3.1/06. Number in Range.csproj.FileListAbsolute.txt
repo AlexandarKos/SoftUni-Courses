@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.exe
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.deps.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.genruntimeconfig.cache

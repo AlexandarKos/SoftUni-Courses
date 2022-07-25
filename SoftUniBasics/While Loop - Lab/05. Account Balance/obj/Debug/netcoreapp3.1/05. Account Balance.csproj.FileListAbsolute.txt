@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.exe
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.deps.json
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.json
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.dll
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.pdb
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.dll
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.pdb
+C:\Softuni\repos\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.genruntimeconfig.cache

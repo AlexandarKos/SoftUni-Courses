@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.exe
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.deps.json
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.genruntimeconfig.cache

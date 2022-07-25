@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\bin\Debug\netcoreapp3.1\T05.GreetingByName.exe
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\bin\Debug\netcoreapp3.1\T05.GreetingByName.deps.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\bin\Debug\netcoreapp3.1\T05.GreetingByName.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\bin\Debug\netcoreapp3.1\T05.GreetingByName.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\bin\Debug\netcoreapp3.1\T05.GreetingByName.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\bin\Debug\netcoreapp3.1\T05.GreetingByName.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T05.GreetingByName\obj\Debug\netcoreapp3.1\T05.GreetingByName.genruntimeconfig.cache

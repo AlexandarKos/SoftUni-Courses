@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.exe
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.deps.json
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.json
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.dll
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.dll
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+C:\Softuni\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.genruntimeconfig.cache

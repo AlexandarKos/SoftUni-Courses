@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.exe
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.deps.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.genruntimeconfig.cache

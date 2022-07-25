@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.exe
+C:\Softuni\repos\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.deps.json
+C:\Softuni\repos\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.json
+C:\Softuni\repos\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.dll
+C:\Softuni\repos\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp3.1\06. Max Number.pdb
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.dll
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.pdb
+C:\Softuni\repos\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp3.1\06. Max Number.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.exe
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.deps.json
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.genruntimeconfig.cache

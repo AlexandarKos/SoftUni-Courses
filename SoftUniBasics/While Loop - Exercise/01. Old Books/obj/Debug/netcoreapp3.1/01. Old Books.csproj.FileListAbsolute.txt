@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.exe
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.deps.json
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.json
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.dll
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\bin\Debug\netcoreapp3.1\01. Old Books.pdb
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.dll
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.pdb
+C:\Softuni\repos\While Loop - Exercise\01. Old Books\obj\Debug\netcoreapp3.1\01. Old Books.genruntimeconfig.cache

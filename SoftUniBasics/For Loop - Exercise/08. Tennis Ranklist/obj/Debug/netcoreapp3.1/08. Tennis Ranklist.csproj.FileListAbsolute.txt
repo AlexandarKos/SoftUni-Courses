@@ -1,0 +1,14 @@
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.exe
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.deps.json
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.runtimeconfig.json
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.runtimeconfig.dev.json
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.dll
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.pdb
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.csproj.AssemblyReference.cache
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.AssemblyInfo.cs
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.dll
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.pdb
+C:\Softuni\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.exe
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.deps.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.dev.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csproj.AssemblyReference.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfoInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfo.cs
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.exe
+C:\Softuni\repos\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.deps.json
+C:\Softuni\repos\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.json
+C:\Softuni\repos\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Softuni\repos\While Loop - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.pdb
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.pdb
+C:\Softuni\repos\While Loop - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.AssemblyReference.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.AssemblyReference.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

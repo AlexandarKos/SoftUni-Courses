@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.exe
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.genruntimeconfig.cache

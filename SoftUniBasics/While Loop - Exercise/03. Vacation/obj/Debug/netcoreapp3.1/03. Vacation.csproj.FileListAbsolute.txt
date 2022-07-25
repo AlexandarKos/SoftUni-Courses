@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Softuni\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

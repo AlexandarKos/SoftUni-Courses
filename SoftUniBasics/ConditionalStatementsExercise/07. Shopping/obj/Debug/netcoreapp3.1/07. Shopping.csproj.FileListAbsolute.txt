@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.exe
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.deps.json
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.dll
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\bin\Debug\netcoreapp3.1\07. Shopping.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.dll
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\07. Shopping\obj\Debug\netcoreapp3.1\07. Shopping.genruntimeconfig.cache

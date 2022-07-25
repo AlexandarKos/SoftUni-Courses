@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.exe
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.dll
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.dll
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.genruntimeconfig.cache

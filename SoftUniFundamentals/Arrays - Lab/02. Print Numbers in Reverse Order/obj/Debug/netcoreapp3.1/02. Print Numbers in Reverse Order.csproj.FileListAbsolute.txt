@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.genruntimeconfig.cache

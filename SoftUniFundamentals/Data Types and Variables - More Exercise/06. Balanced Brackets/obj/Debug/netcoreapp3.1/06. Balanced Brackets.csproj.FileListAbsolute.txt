@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.genruntimeconfig.cache

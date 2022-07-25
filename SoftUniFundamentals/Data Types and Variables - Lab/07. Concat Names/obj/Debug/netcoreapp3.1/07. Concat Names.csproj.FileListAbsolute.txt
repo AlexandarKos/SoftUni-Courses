@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.exe
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.dll
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.dll
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.genruntimeconfig.cache

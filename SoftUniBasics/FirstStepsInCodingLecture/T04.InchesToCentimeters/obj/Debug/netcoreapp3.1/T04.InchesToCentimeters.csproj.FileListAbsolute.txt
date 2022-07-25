@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\bin\Debug\netcoreapp3.1\T04.InchesToCentimeters.exe
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\bin\Debug\netcoreapp3.1\T04.InchesToCentimeters.deps.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\bin\Debug\netcoreapp3.1\T04.InchesToCentimeters.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\bin\Debug\netcoreapp3.1\T04.InchesToCentimeters.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\bin\Debug\netcoreapp3.1\T04.InchesToCentimeters.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\bin\Debug\netcoreapp3.1\T04.InchesToCentimeters.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T04.InchesToCentimeters\obj\Debug\netcoreapp3.1\T04.InchesToCentimeters.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.exe
+C:\Softuni\repos\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.deps.json
+C:\Softuni\repos\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.json
+C:\Softuni\repos\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.dll
+C:\Softuni\repos\While Loop - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.pdb
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.dll
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.pdb
+C:\Softuni\repos\While Loop - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.genruntimeconfig.cache

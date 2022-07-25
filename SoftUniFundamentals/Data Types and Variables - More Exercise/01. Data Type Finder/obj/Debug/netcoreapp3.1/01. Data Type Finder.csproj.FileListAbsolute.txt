@@ -1,0 +1,25 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\Microsoft.Azure.Devices.Shared.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.CopyComplete
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.genruntimeconfig.cache

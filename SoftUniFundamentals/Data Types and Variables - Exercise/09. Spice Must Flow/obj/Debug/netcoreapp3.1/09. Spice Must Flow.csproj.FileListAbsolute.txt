@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.exe
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.deps.json
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.genruntimeconfig.cache

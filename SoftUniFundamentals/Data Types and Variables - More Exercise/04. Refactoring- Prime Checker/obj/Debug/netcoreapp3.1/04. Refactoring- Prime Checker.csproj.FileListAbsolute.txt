@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\04. Refactoring- Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring- Prime Checker.genruntimeconfig.cache

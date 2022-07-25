@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.exe
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.deps.json
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.dll
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.pdb
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.dll
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.pdb
+C:\Softuni\repos\ConditionalStatementsLecture\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.genruntimeconfig.cache

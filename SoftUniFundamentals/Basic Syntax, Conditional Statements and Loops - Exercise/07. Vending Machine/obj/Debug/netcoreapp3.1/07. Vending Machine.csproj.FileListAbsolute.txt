@@ -1,0 +1,14 @@
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.AssemblyReference.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.genruntimeconfig.cache

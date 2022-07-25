@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\bin\Debug\netcoreapp3.1\T06.ConcatenateData.exe
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\bin\Debug\netcoreapp3.1\T06.ConcatenateData.deps.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\bin\Debug\netcoreapp3.1\T06.ConcatenateData.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\bin\Debug\netcoreapp3.1\T06.ConcatenateData.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\bin\Debug\netcoreapp3.1\T06.ConcatenateData.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\bin\Debug\netcoreapp3.1\T06.ConcatenateData.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T06.ConcatenateData\obj\Debug\netcoreapp3.1\T06.ConcatenateData.genruntimeconfig.cache

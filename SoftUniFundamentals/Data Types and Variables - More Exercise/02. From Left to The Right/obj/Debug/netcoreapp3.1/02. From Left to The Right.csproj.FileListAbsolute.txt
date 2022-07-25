@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.genruntimeconfig.cache

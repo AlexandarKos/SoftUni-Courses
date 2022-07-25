@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.genruntimeconfig.cache

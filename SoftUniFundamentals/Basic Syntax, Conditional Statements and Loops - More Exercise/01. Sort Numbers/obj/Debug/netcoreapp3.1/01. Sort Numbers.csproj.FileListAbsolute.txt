@@ -1,0 +1,14 @@
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.exe
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.deps.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.runtimeconfig.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.runtimeconfig.dev.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\netcoreapp3.1\01. Sort Numbers.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.csproj.AssemblyReference.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.AssemblyInfoInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.AssemblyInfo.cs
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\netcoreapp3.1\01. Sort Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.genruntimeconfig.cache

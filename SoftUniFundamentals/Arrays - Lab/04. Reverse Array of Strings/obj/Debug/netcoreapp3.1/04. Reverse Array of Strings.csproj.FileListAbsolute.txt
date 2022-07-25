@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.genruntimeconfig.cache

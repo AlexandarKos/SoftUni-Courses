@@ -1,0 +1,14 @@
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.exe
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.deps.json
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.json
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.runtimeconfig.dev.json
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.dll
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.pdb
+C:\Softuni\repos\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers.genruntimeconfig.cache

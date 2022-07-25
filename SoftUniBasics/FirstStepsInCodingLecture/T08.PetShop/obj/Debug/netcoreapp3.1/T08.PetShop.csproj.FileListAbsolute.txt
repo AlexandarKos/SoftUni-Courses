@@ -1,0 +1,14 @@
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\bin\Debug\netcoreapp3.1\T08.PetShop.exe
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\bin\Debug\netcoreapp3.1\T08.PetShop.deps.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\bin\Debug\netcoreapp3.1\T08.PetShop.runtimeconfig.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\bin\Debug\netcoreapp3.1\T08.PetShop.runtimeconfig.dev.json
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\bin\Debug\netcoreapp3.1\T08.PetShop.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\bin\Debug\netcoreapp3.1\T08.PetShop.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.csproj.AssemblyReference.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.AssemblyInfoInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.AssemblyInfo.cs
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.dll
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.pdb
+C:\Softuni\repos\FirstStepsInCodingLecture\T08.PetShop\obj\Debug\netcoreapp3.1\T08.PetShop.genruntimeconfig.cache

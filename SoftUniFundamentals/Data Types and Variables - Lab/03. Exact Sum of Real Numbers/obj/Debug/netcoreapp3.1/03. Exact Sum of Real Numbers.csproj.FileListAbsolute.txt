@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.exe
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.genruntimeconfig.cache

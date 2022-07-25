@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.exe
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.genruntimeconfig.cache

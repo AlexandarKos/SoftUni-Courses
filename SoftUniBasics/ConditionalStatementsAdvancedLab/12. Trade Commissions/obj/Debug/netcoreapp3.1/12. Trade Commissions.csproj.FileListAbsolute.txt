@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache

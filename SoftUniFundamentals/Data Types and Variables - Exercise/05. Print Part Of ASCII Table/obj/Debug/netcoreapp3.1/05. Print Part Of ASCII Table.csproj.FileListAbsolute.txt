@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.exe
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.deps.json
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+C:\Softuni\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.exe
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.genruntimeconfig.cache

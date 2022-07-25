@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.exe
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.deps.json
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.dll
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.dll
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.genruntimeconfig.cache

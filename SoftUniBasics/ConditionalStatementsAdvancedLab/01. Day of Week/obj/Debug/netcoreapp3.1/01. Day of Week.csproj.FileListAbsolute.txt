@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

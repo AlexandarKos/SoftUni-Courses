@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.genruntimeconfig.cache

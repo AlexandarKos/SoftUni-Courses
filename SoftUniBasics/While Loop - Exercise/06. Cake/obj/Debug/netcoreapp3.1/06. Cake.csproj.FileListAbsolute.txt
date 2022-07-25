@@ -1,0 +1,14 @@
+C:\Softuni\repos\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.exe
+C:\Softuni\repos\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.deps.json
+C:\Softuni\repos\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.json
+C:\Softuni\repos\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.runtimeconfig.dev.json
+C:\Softuni\repos\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.dll
+C:\Softuni\repos\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp3.1\06. Cake.pdb
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.csproj.AssemblyReference.cache
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfoInputs.cache
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.AssemblyInfo.cs
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.dll
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.pdb
+C:\Softuni\repos\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp3.1\06. Cake.genruntimeconfig.cache

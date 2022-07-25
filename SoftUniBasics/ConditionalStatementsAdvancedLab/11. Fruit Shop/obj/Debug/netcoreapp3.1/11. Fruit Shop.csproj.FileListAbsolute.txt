@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Softuni\repos\ConditionalStatementsAdvancedLab\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache

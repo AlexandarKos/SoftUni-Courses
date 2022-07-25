@@ -1,0 +1,14 @@
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.exe
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.deps.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.dev.json
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.AssemblyReference.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfoInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfo.cs
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.dll
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.pdb
+C:\Softuni\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.genruntimeconfig.cache

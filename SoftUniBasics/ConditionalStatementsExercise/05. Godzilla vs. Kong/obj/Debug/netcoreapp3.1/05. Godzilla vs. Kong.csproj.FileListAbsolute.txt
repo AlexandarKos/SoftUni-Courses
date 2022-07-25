@@ -1,0 +1,14 @@
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.exe
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.deps.json
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.runtimeconfig.json
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.dll
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.AssemblyInfo.cs
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.dll
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.pdb
+C:\Softuni\repos\ConditionalStatementsExercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.genruntimeconfig.cache

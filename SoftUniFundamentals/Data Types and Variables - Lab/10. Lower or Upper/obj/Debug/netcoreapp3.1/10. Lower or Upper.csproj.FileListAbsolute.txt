@@ -1,0 +1,14 @@
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.exe
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.deps.json
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.json
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.dev.json
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.dll
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.AssemblyReference.cache
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfo.cs
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.dll
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+C:\Softuni\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.genruntimeconfig.cache

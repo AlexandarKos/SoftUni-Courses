@@ -1,0 +1,14 @@
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.exe
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.deps.json
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.json
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.runtimeconfig.dev.json
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.dll
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\bin\Debug\netcoreapp3.1\01. Clock.pdb
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.AssemblyReference.cache
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfoInputs.cache
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.AssemblyInfo.cs
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.dll
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.pdb
+C:\Softuni\repos\Nested Loops - Lab\01. Clock\obj\Debug\netcoreapp3.1\01. Clock.genruntimeconfig.cache
