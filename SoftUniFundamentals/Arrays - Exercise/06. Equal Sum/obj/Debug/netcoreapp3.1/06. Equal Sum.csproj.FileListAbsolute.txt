@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.genruntimeconfig.cache
