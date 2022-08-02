@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache

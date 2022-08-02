@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.genruntimeconfig.cache

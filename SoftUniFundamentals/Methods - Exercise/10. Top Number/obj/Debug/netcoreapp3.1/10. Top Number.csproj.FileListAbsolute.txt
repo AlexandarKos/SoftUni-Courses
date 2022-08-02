@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.1\10. Top Number.genruntimeconfig.cache

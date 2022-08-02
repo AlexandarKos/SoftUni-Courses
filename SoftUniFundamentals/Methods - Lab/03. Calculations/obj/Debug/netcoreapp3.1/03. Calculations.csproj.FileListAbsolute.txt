@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.genruntimeconfig.cache

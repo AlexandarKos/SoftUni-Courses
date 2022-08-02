@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.genruntimeconfig.cache

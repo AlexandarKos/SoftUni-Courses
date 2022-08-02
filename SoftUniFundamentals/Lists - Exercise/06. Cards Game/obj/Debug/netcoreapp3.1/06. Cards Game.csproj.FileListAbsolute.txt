@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.genruntimeconfig.cache

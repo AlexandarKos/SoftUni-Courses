@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.genruntimeconfig.cache

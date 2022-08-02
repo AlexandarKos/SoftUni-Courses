@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.genruntimeconfig.cache

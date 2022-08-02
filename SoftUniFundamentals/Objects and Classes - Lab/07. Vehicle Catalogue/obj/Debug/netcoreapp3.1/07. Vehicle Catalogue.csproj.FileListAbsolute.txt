@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\07. Vehicle Catalogue.genruntimeconfig.cache

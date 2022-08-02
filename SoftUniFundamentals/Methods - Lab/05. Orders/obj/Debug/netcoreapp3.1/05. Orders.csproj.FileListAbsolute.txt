@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

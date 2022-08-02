@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Objects and Classes - Lab\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.genruntimeconfig.cache
