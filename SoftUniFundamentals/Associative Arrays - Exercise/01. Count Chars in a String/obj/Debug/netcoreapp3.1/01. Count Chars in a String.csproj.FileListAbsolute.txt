@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.genruntimeconfig.cache

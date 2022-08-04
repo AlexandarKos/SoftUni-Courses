@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.genruntimeconfig.cache
