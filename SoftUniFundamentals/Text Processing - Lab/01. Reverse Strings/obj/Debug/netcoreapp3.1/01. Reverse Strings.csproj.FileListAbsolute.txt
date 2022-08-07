@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.genruntimeconfig.cache

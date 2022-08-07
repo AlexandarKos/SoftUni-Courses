@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.genruntimeconfig.cache

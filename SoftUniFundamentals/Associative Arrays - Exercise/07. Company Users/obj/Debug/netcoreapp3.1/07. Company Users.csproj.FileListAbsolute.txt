@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\bin\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Associative Arrays - Exercise\07. Company Users\obj\Debug\netcoreapp3.1\07. Company Users.genruntimeconfig.cache

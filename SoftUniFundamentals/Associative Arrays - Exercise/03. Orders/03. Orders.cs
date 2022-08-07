@@ -24,15 +24,30 @@ namespace _03._Orders
 
                 if (!ordersPrice.ContainsKey(productName))
                 {
+                    //If the product doesn't exist yet, add it with its starting quantity.
                     ordersPrice.Add(productName, productPrice);
                     ordersQuantity.Add(productName, productQuantity);
                 }
                 else
                 {
-
+                    ordersQuantity[productName] += productQuantity;
+                    if (ordersPrice[productName] != productPrice)
+                    {
+                        ordersPrice[productName] = productPrice;
+                    }
                 }
+
+                input = Console.ReadLine().Split().ToArray();
             }
 
+            
+            ordersPrice.Join(ordersQuantity,
+                x => x.Key,
+                y => y.Key,
+                (x, y) => new { Name = x.Key, Value = x.Value * y.Value })
+                .ToList()
+                .ForEach(item => Console.WriteLine($"{item.Name} -> {item.Value:f2}"));
+            
         }
     }
 

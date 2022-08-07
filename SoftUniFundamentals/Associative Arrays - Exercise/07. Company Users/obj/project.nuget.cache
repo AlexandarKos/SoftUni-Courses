@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e4nJ9bUDfrW4oPApmSvISv1hRjcvrpxIDAMnRuQK29xwkk7UqLcSRmW+bpon3Oksj8AqYheK8ummOnppy1pCwA==",
+  "dgSpecHash": "s/2xp7su9h9RGqvb7VbonQd9cW1fUSKyD1cybN4YIPKLlHW9gmb0YtIgibv2C49qe7FKNEhVETjuvVnPjySvEQ==",
   "success": true,
   "projectFilePath": "C:\\Softuni\\repos\\SoftUni-Courses\\SoftUniFundamentals\\Associative Arrays - Exercise\\07. Company Users\\07. Company Users.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\iceon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\iceon\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\iceon\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\iceon\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
