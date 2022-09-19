@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.genruntimeconfig.cache

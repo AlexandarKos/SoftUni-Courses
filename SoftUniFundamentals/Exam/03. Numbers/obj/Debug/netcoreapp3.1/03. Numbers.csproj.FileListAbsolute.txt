@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.exe
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.deps.json
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.json
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.dev.json
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.dll
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfo.cs
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.dll
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+C:\Softuni\Projects\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.genruntimeconfig.cache

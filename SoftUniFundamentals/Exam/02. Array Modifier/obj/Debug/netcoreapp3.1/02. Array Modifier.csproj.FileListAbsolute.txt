@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.genruntimeconfig.cache

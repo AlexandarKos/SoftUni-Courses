@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Softuni\Projects\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.genruntimeconfig.cache

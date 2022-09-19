@@ -1,0 +1,14 @@
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.exe
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.deps.json
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.json
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.dev.json
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfo.cs
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Softuni\Projects\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.genruntimeconfig.cache

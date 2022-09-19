@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\bin\Debug\netcoreapp3.1\01 - First Task.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\bin\Debug\netcoreapp3.1\01 - First Task.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\bin\Debug\netcoreapp3.1\01 - First Task.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\bin\Debug\netcoreapp3.1\01 - First Task.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\bin\Debug\netcoreapp3.1\01 - First Task.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\bin\Debug\netcoreapp3.1\01 - First Task.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\01 - First Task\obj\Debug\netcoreapp3.1\01 - First Task.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniFundamentals\Exam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.genruntimeconfig.cache
