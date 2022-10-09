@@ -1,0 +1,14 @@
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.exe
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.deps.json
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.json
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.dev.json
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.pdb
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfo.cs
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.pdb
+C:\Softuni\Projects\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qyCNNeGN6GdM03N19inl7z8Aek7fTzKJ6n+IifsjyLTmW79a8W+EJl02sD2Hi1h6RGK37Q2M/y50WLA4hiaZHA==",
+  "dgSpecHash": "ADJcW+Rilk8Zvi9xag+o/YxnHCgXmz/E0UkusqtE/2zdsL9RrHpSZy1xFPcOuYGG1f1mB+DpJMKPR4b1Z/gtzg==",
   "success": true,
-  "projectFilePath": "C:\\Softuni\\Projects\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+  "projectFilePath": "C:\\Softuni\\repos\\SoftUni-Courses\\SoftUniAdvanced\\C# Advanced\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,14 @@
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.exe
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.deps.json
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.json
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.dev.json
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfo.cs
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+C:\Softuni\Projects\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.exe
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.deps.json
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.json
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.dev.json
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfo.cs
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
+C:\Softuni\Projects\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\bin\Debug\net6.0\DEMO.exe
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\bin\Debug\net6.0\DEMO.deps.json
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\bin\Debug\net6.0\DEMO.runtimeconfig.json
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\bin\Debug\net6.0\DEMO.dll
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\bin\Debug\net6.0\DEMO.pdb
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.AssemblyInfo.cs
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.dll
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\refint\DEMO.dll
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.pdb
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\DEMO.genruntimeconfig.cache
+C:\Softuni\Projects\Stacks and Queues - Exercise\DEMO\obj\Debug\net6.0\ref\DEMO.dll

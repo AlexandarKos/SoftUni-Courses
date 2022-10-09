@@ -1,0 +1,14 @@
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.exe
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.deps.json
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.json
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.dev.json
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfo.cs
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb
+C:\Softuni\Projects\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Softuni\\Projects\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj": {}
+    "C:\\Softuni\\repos\\SoftUni-Courses\\SoftUniAdvanced\\C# Advanced\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj": {}
   },
   "projects": {
-    "C:\\Softuni\\Projects\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj": {
+    "C:\\Softuni\\repos\\SoftUni-Courses\\SoftUniAdvanced\\C# Advanced\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Softuni\\Projects\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+        "projectUniqueName": "C:\\Softuni\\repos\\SoftUni-Courses\\SoftUniAdvanced\\C# Advanced\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
         "projectName": "4. Matching Brackets",
-        "projectPath": "C:\\Softuni\\Projects\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
+        "projectPath": "C:\\Softuni\\repos\\SoftUni-Courses\\SoftUniAdvanced\\C# Advanced\\Stacks and Queues - Lab\\4. Matching Brackets\\4. Matching Brackets.csproj",
         "packagesPath": "C:\\Users\\iceon\\.nuget\\packages\\",
-        "outputPath": "C:\\Softuni\\Projects\\Stacks and Queues - Lab\\4. Matching Brackets\\obj\\",
+        "outputPath": "C:\\Softuni\\repos\\SoftUni-Courses\\SoftUniAdvanced\\C# Advanced\\Stacks and Queues - Lab\\4. Matching Brackets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
