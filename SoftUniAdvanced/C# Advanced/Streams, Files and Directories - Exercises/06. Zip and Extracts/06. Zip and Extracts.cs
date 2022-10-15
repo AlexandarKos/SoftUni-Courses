@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _01._Odd_Lines
+namespace _06._Zip_and_Extracts
 {
     internal class Program
     {

@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.genruntimeconfig.cache
