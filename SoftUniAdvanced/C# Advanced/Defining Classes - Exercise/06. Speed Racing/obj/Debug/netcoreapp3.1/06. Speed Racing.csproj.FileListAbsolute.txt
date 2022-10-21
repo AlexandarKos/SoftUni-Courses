@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.genruntimeconfig.cache

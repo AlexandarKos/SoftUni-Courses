@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.genruntimeconfig.cache

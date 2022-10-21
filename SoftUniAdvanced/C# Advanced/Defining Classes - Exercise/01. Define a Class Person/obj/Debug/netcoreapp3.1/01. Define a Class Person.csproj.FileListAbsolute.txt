@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.genruntimeconfig.cache

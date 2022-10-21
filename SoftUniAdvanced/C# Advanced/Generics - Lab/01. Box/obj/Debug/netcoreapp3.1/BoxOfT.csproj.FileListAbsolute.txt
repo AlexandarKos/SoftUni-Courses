@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\01. Car.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\01. Car.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\01. Car.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\01. Car.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\01. Car.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\01. Car.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\01. Car.genruntimeconfig.cache

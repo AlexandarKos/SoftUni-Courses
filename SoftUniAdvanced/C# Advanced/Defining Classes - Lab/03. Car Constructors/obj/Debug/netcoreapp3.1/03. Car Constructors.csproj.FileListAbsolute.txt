@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.genruntimeconfig.cache

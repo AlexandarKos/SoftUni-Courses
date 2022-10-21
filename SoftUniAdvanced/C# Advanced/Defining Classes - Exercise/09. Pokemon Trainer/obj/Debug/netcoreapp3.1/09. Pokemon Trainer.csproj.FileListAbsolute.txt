@@ -1,0 +1,14 @@
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.exe
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.deps.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.runtimeconfig.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.runtimeconfig.dev.json
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.csproj.AssemblyReference.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.AssemblyInfo.cs
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.dll
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.pdb
+C:\Softuni\repos\SoftUni-Courses\SoftUniAdvanced\C# Advanced\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.genruntimeconfig.cache
