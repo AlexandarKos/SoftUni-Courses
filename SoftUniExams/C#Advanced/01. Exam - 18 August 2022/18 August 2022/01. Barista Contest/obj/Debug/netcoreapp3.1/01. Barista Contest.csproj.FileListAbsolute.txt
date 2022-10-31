@@ -1,0 +1,28 @@
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.exe
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.deps.json
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.json
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.dev.json
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.AssemblyReference.cache
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfoInputs.cache
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfo.cs
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.CoreCompileInputs.cache
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.genruntimeconfig.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.exe
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.deps.json
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.json
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.dev.json
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.AssemblyReference.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfoInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfo.cs
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.CoreCompileInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.genruntimeconfig.cache

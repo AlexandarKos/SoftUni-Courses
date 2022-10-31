@@ -1,0 +1,14 @@
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.exe
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.deps.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.dev.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\bin\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.AssemblyReference.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfo.cs
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\ComputerArchitecture\obj\Debug\netcoreapp3.1\ComputerArchitecture.genruntimeconfig.cache

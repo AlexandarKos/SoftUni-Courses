@@ -1,0 +1,28 @@
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.exe
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.deps.json
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.runtimeconfig.json
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.runtimeconfig.dev.json
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.dll
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.pdb
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.csproj.AssemblyReference.cache
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.AssemblyInfoInputs.cache
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.AssemblyInfo.cs
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.csproj.CoreCompileInputs.cache
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.dll
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.pdb
+C:\Softuni\exams practice\C#Advanced\C# Advanced Retake Exam – 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.genruntimeconfig.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.exe
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.deps.json
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.runtimeconfig.json
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.runtimeconfig.dev.json
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\bin\Debug\netcoreapp3.1\03.Basketball.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.csproj.AssemblyReference.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.AssemblyInfoInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.AssemblyInfo.cs
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.csproj.CoreCompileInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 18 August 2022\18 August 2022\03.Basketball\obj\Debug\netcoreapp3.1\03.Basketball.genruntimeconfig.cache

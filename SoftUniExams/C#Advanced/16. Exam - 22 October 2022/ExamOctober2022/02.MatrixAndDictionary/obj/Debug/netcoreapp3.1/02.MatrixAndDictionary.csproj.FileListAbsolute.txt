@@ -1,0 +1,14 @@
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\bin\Debug\netcoreapp3.1\02.MatrixAndDictionary.exe
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\bin\Debug\netcoreapp3.1\02.MatrixAndDictionary.deps.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\bin\Debug\netcoreapp3.1\02.MatrixAndDictionary.runtimeconfig.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\bin\Debug\netcoreapp3.1\02.MatrixAndDictionary.runtimeconfig.dev.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\bin\Debug\netcoreapp3.1\02.MatrixAndDictionary.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\bin\Debug\netcoreapp3.1\02.MatrixAndDictionary.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.csproj.AssemblyReference.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.AssemblyInfoInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.AssemblyInfo.cs
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.csproj.CoreCompileInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\02.MatrixAndDictionary\obj\Debug\netcoreapp3.1\02.MatrixAndDictionary.genruntimeconfig.cache

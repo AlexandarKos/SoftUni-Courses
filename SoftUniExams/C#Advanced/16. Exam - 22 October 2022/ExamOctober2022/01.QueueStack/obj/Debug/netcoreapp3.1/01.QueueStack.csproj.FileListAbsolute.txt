@@ -1,0 +1,14 @@
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\bin\Debug\netcoreapp3.1\01.QueueStack.exe
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\bin\Debug\netcoreapp3.1\01.QueueStack.deps.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\bin\Debug\netcoreapp3.1\01.QueueStack.runtimeconfig.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\bin\Debug\netcoreapp3.1\01.QueueStack.runtimeconfig.dev.json
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\bin\Debug\netcoreapp3.1\01.QueueStack.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\bin\Debug\netcoreapp3.1\01.QueueStack.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.csproj.AssemblyReference.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.AssemblyInfoInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.AssemblyInfo.cs
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.csproj.CoreCompileInputs.cache
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.dll
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.pdb
+C:\Softuni\exams practice\C#Advanced\Exam - 22 October 2022\ExamOctober2022\01.QueueStack\obj\Debug\netcoreapp3.1\01.QueueStack.genruntimeconfig.cache
